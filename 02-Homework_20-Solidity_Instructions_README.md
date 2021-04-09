@@ -121,7 +121,7 @@ Once you feel comfortable with your contracts, point MetaMask to the Kovan or Ro
 
 After switching MetaMask to Kovan, deploy the contracts as before and copy/keep a note of their deployed addresses. The transactions will also be in your MetaMask history, and on the blockchain permanently to explore later.
 
-![Remix Deploy](Images/remix-deploy.png)
+
 
 
 
